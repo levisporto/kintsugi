@@ -3,7 +3,7 @@ const translations = {
     
     pt: {
         index: 'INÍCIO',
-        about: 'SOBRE',
+        about: 'No Github',
         bowls: 'Tijelas',
         dropdown_menu1: 'Xícara de Matcha',
         dropdown_menu2: 'Tijela de Youkoya',
